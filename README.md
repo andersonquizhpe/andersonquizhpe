@@ -87,6 +87,15 @@ You can click the Preview link to take a look at your changes.
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=andersonquizhpe&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 
+<div align="center">
+  
+<sup>You are visitor number:</sup>
+
+![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
+
+</div>
+
+
 
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
