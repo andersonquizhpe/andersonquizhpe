@@ -73,7 +73,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Python-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/DataViz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
