@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://mariagrandury.github.io" target="_blank" rel="nofollow">
   <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
-# Hi, I'm Anderson!
+# 👋 Hi, I'm Anderson!
 
 - 💡  Mathematician & Physicist turned ML Research Engineer
 
