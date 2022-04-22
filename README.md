@@ -74,20 +74,10 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/DataViz-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Apps-Flask-informational?style=flat&logo=flask&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Apps-Docker-informational?style=flat&logo=docker&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/CI-Circle--CI-informational?style=flat&logo=CircleCi&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Docs-Sphinx-informational?style=flat&logo=Sphinx&logoColor=white&color=00cccc)
-
-![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 
 
 
