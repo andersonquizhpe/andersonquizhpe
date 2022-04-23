@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 
-# Hi, I'm Anderson! 👋👨‍💻
+# Hi, I'm Anderson! 👋👨‍💻 
 
 <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 Soy un ingeniero de software apasionado por hacer que la contribución al código abierto sea más accesible, crear tecnología para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen NodeJS, Android (Java, Kotlin) y MySQL.
