@@ -72,7 +72,9 @@ You can click the Preview link to take a look at your changes.
 <!---->
 ## My GitHub Stats
 <!--ffffffffffffffffffffffffffffffffffffffffffffff-->
-![Visitors](https://komarev.com/ghpvc/?username=andersonquizhpe&label=Profile%20views&color=0e75b6&style=flat)
+<!--![Visitors](https://komarev.com/ghpvc/?username=andersonquizhpe&label=Profile%20views&color=0e75b6&style=flat)-->
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=andersonquizhpe.andersonquizhpe)
 
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
