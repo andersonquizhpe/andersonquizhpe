@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <p align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonquizhpe&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" >
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=andersonquizhpe&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
 
