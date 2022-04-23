@@ -20,14 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--------------------------------------------->
-<a href="https://mobile.twitter.com/mcjhander" target="_blank" rel="nofollow">
-  <img align="right" alt="Twitter" width="43px" src="https://www.flaticon.com/free-icon/twitter_733579" /></a>
-<a href="https://www.linkedin.com/in/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkedIn" width="43px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
-<a href="https://linktr.ee/mariagrandury" target="_blank" rel="nofollow">
-  <img align="right" alt="LinkTree" width="43px" src="https://image.flaticon.com/icons/png/512/3308/3308178.png" /></a>
-<a href="https://mariagrandury.github.io" target="_blank" rel="nofollow">
-  <img align="right" alt="Personal Website" width="43px" src="https://image.flaticon.com/icons/png/512/975/975645.png" /></a>
 
 # 👋 Hi, I'm Anderson!
 
