@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <!---->
 ## My GitHub Stats
 <!--ffffffffffffffffffffffffffffffffffffffffffffff-->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=andersonquizhpe.andersonquizhpe)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=andersonquizhpe.andersonquizhpe)-->
 
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andersonquizhpe" alt="andersonquizhpe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andersonquizhpe" target="blank"><img src="https://img.shields.io/twitter/follow/andersonquizhpe?logo=twitter&style=for-the-badge" alt="andersonquizhpe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mcjhander" target="blank"><img src="https://img.shields.io/twitter/follow/andersonquizhpe?logo=twitter&style=for-the-badge" alt="andersonquizhpe" /></a> </p>
 
 - 🔭 I’m currently working on **jadh**
 
