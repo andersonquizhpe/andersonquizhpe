@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--------------------------------------------->
 
-# 👋 Hi, I'm Anderson!
+# 
 
 - 💡  Mathematician & Physicist turned ML Research Engineer
 
