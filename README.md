@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 #### Actualmente
 
 - 👩🏻‍💻  Estudiante de Ingenieria en Sistemas
-- 🌱  Estoy aprendiendo **AngularJS**, ***Flutter** ,**Diseño gráfico**
+- 🌱  Estoy aprendiendo **AngularJS**, **Flutter** ,**Diseño gráfico**
 - 👨‍💻  Mis proyectos estan disponibles en [GitHub](https://github.com/andersonquizhpe)
 
 #### En mi tiempo libre
