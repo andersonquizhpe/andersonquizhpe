@@ -116,9 +116,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **afsageg**-->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonquizhpe&show_icons=true&locale=en&layout=compact" alt="andersonquizhpe" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en" alt="andersonquizhpe" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en" alt="andersonquizhpe" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&" alt="andersonquizhpe" /></p>-->
 
