@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 #### Actualmente
 
 - 👩🏻‍💻  Estudiante de Ingenieria en Sistemas
-- 🌱  Estoy aprendiendo **AngularJS**, **Diseño gráfico**
+- 🌱  Estoy aprendiendo **AngularJS**, ***Flutter** ,**Diseño gráfico**
 - 👨‍💻  Mis proyectos estan disponibles en [GitHub](https://github.com/andersonquizhpe)
 
 #### En mi tiempo libre
@@ -59,6 +59,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en&theme=react&count_private=true" alt="Estadísticas" >
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs?username=andersonquizhpe&show_icons=true&locale=en&layout=compact&theme=react&show_icons=true" alt="Lenguajes mas usados" >
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&theme=react" alt="andersonquizhpe" />
 </p>
 
 <!--
@@ -114,11 +115,6 @@ You can click the Preview link to take a look at your changes.
 - 📄 Know about my experiences [afgsgag](afgsgag)
 
 - ⚡ Fun fact **afsageg**-->
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&" alt="andersonquizhpe" /></p>
 
 
 <h3 align="left">Contacto:</h3>
