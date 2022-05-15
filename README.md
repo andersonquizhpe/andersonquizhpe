@@ -69,22 +69,22 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&" alt="andersonquizhpe" /></p>
 -->
 
-<div align="center">
+<!--<div align="center">
   
 <sup>You are visitor number:</sup>
 
 ![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1626708761)
 
-</div>
+</div>-->
 
 <!--<details close>
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Visitors badge](https://visitor-badge.laobi.icu/)-->
+  - [Visitors badge](https://visitor-badge.laobi.icu/)
   
-</details>
+</details>-->
 <!--####################################-->
 <!--####################################-->
 
@@ -118,14 +118,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&" alt="andersonquizhpe" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonquizhpe&" alt="andersonquizhpe" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
-<a href="https://twitter.com/andersonquizhpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andersonquizhpe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andersonquizhpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andersonquizhpe" height="30" width="40" /></a>
-<a href="https://fb.com/andersonquizhpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andersonquizhpe" height="30" width="40" /></a>
-<a href="https://instagram.com/andersonquizhpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andersonquizhpe" height="30" width="40" /></a>
+<a href="https://twitter.com/mcjhander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andersonquizhpe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anderson-quizhpe-27989718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andersonquizhpe" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Jhander.Mc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andersonquizhpe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mc_jhander/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andersonquizhpe" height="30" width="40" /></a>
 </p>
 
