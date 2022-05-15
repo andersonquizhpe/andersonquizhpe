@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - 🥾 Senderismo
 
 - 🎸🎶 Escucho todo tipo de música
-
+<!--
 ## Skills
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=00cccc)
@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Test-Unittest-informational?style=flat&logo=unittest&logoColor=white&color=00cccc)-->
 
 <!---->
 ## My GitHub Stats
@@ -79,19 +79,19 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<details close>
+<!--<details close>
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Visitors badge](https://visitor-badge.laobi.icu/)
+  - [Visitors badge](https://visitor-badge.laobi.icu/)-->
   
 </details>
 <!--####################################-->
 <!--####################################-->
 
-<h1 align="center">Hi 👋, I'm anderson quizhpe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--<h1 align="center">Hi 👋, I'm anderson quizhpe</h1>
+<h3 align="center">A passionate frontend developer from India</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andersonquizhpe&label=Visitors&color=0e75b6&style=flat" alt="andersonquizhpe" /> </p>
 
