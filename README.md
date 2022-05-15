@@ -52,14 +52,13 @@ You can click the Preview link to take a look at your changes.
 <!--ffffffffffffffffffffffffffffffffffffffffffffff-->
 <!--![Visitors](https://komarev.com/ghpvc/?username=andersonquizhpe&label=Profile%20views&color=0e75b6&style=flat)-->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=andersonquizhpe.andersonquizhpe)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=andersonquizhpe.andersonquizhpe)-->
 
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <p align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en&theme=react&count_private=true" alt="GitHub Stats" >
-  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs?username=andersonquizhpe&show_icons=true&locale=en&layout=compact&theme=react&show_icons=true" alt="Most Used Languages" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en&theme=react" alt="andersonquizhpe" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=andersonquizhpe&show_icons=true&locale=en&theme=react&count_private=true" alt="Estadísticas" >
+  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs?username=andersonquizhpe&show_icons=true&locale=en&layout=compact&theme=react&show_icons=true" alt="Lenguajes mas usados" >
 </p>
 
 <!--
