@@ -2,7 +2,7 @@
 # Hi, I'm Anderson! 👋👨‍💻 
 
 <!--<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">-->
-Soy un ingeniero de software apasionado por hacer que la contribución al código abierto sea más accesible, crear tecnología para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen NodeJS, Android (Java, Kotlin) y MySQL.
+Soy un estudiante de ingenieria en sistemas apasionado por hacer que la contribución al código abierto sea más accesible, crear tecnología para elevar a las personas y construir una comunidad. Algunas tecnologías con las que disfruto trabajar incluyen NodeJS, Android (Java, Kotlin) y MySQL.
 
 <!--## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
